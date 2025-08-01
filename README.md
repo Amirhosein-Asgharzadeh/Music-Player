@@ -1,6 +1,6 @@
 # Music Player Application
 
-![Music Player Screenshot](images/screenshot.png)
+![Music Player Screenshot](images/Screenshot.png)
 
 ## Description
 A modern music player application built with Python using CustomTkinter for the GUI and Pygame for audio playback. This player supports MP3 files, displays album art, and provides standard music player controls.
